@@ -1,0 +1,26 @@
+.profile-page {
+  width: 50rem;
+  margin: 0 auto;
+  background-color: lavender;
+  height: 100vh;
+  padding: 2rem;
+  list-style: none;
+}
+
+.profile-image-profile-page {
+  width: 10rem;
+  height: 15rem;
+  background-color: royalblue;
+}
+
+.user-details {
+  padding: 1rem;
+}
+
+.profile-page-header {
+  display: flex;
+}
+
+.user-details {
+  padding: 1rem;
+}

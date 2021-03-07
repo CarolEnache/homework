@@ -1,0 +1,37 @@
+
+{
+  "data": [
+    {
+      "picture": "#",
+      "name": "John Doe",
+      "email": "john.doe@accenture.com",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet, blanditiis ipsam, temporibus ex dolor vitae dignissimos voluptates aliquid totam quis fuga ducimus labore! Veniam esse modi, atque facilis quaerat minima.",
+      "uuid": 11111
+    },
+    {
+      "picture": "#",
+      "name": "John Snow",
+      "email": "john.doe@accenture.com",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet, blanditiis ipsam, temporibus ex dolor vitae dignissimos voluptates aliquid totam quis fuga ducimus labore! Veniam esse modi, atque facilis quaerat minima.",
+      "uuid": 22222
+
+  
+    },
+    {
+      "picture": "#",
+      "name": "Peter Smith",
+      "email": "john.doe@accenture.com",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet, blanditiis ipsam, temporibus ex dolor vitae dignissimos voluptates aliquid totam quis fuga ducimus labore! Veniam esse modi, atque facilis quaerat minima.",
+      "uuid": 333333
+
+  
+    },
+    {
+      "picture": "#",
+      "name": "Someone Else",
+      "email": "john.doe@accenture.com",    
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet, blanditiis ipsam, temporibus ex dolor vitae dignissimos voluptates aliquid totam quis fuga ducimus labore! Veniam esse modi, atque facilis quaerat minima.",
+      "uuid": 44444
+    }
+  ]
+}
